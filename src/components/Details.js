@@ -42,7 +42,7 @@ export default class Details extends Component {
                                     </p>
                                     {/*buttons*/}
                                     <div>
-                                        <Link to="/products">
+                                        <Link to="/phone-store">
                                             <ButtonContainer>
                                                 back to products
                                             </ButtonContainer>

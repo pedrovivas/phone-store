@@ -8,7 +8,7 @@ export default class ProductList extends Component {
         return (
             <React.Fragment>
                 <div>
-                    <img src="img/banner.jpg" alt="Store Banner" className="img-fluid" /> 
+                    <img src="/phone-store/img/banner.jpg" alt="Store Banner" className="img-fluid" /> 
                 </div>
                 <div className="py-5">
                     <div className="container">

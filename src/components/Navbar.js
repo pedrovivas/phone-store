@@ -8,17 +8,17 @@ export default class Navbar extends Component {
     render() {
         return (
             <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
-                <Link to='/'>
+                <Link to='/phone-store'>
                     <img src={logo} alt="store" className="navbar-brand" />
                 </Link>
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-item ml-5">
-                        <Link to="/" className="nav-link">
+                        <Link to="/phone-store" className="nav-link">
                             products
                         </Link>
                     </li>
                 </ul>
-                <Link to='/cart' className="ml-auto">
+                <Link to='/phone-store/cart' className="ml-auto">
                     <ButtonContainer mainCart>
                         <i className="fas fa-cart-plus mr-2" />
                         my cart
