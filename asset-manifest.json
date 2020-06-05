@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phone-store/static/css/main.1e93f5d5.chunk.css",
-    "main.js": "/phone-store/static/js/main.16c9a13c.chunk.js",
-    "main.js.map": "/phone-store/static/js/main.16c9a13c.chunk.js.map",
+    "main.js": "/phone-store/static/js/main.ebfbb344.chunk.js",
+    "main.js.map": "/phone-store/static/js/main.ebfbb344.chunk.js.map",
     "runtime-main.js": "/phone-store/static/js/runtime-main.87aa7d60.js",
     "runtime-main.js.map": "/phone-store/static/js/runtime-main.87aa7d60.js.map",
     "static/css/2.69121389.chunk.css": "/phone-store/static/css/2.69121389.chunk.css",
     "static/js/2.a586e18c.chunk.js": "/phone-store/static/js/2.a586e18c.chunk.js",
     "static/js/2.a586e18c.chunk.js.map": "/phone-store/static/js/2.a586e18c.chunk.js.map",
     "index.html": "/phone-store/index.html",
-    "precache-manifest.3a259dffded08bdf7fc37b2faf4798ce.js": "/phone-store/precache-manifest.3a259dffded08bdf7fc37b2faf4798ce.js",
+    "precache-manifest.4e76bbae603359224e5887230b53e71c.js": "/phone-store/precache-manifest.4e76bbae603359224e5887230b53e71c.js",
     "service-worker.js": "/phone-store/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/phone-store/static/css/2.69121389.chunk.css.map",
     "static/css/main.1e93f5d5.chunk.css.map": "/phone-store/static/css/main.1e93f5d5.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.a586e18c.chunk.js",
     "static/css/main.1e93f5d5.chunk.css",
-    "static/js/main.16c9a13c.chunk.js"
+    "static/js/main.ebfbb344.chunk.js"
   ]
 }
